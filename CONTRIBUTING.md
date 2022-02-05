@@ -47,6 +47,7 @@ Contributions must be licensed under the [GNU General Public License v3.0](./LIC
 * A reviewer should resolve all conversations that she/he has started before approving the pull request.
 * Changelog entries in the and/or Proposed changelog entries must be correct
 * Proper changelog labels are set so that the changelog can be generated automatically in the pre-release
+* The pull request will be merged by a maintainer after it has been approved by a pull request reviewer or maintainer
 
 ## Copyright
 
